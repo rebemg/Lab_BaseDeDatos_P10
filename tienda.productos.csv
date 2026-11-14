@@ -1,0 +1,5 @@
+_id,nombre,precio,caracteristicas.procesador,caracteristicas.ram,caracteristicas.almacenamiento,caracteristicas.tipo,caracteristicas.color,caracteristicas.tamanio,caracteristicas.resolucion,marca,caracteristicas.tipoSwitch,caracteristicas.iluminacion
+6af7c587aa733f982688cbea,Laptop Lenovo,15000,Intel i5,16GB,512GB SSD,,,,,,,
+6af7c596aa733f982688cbec,Mouse Logitech,500,,,,Inalambrico,Negro,,,,,
+6af7c5a1aa733f982688cbee,Monitor Samsung,3500,,,,,,24 pulgadas,Full HD,,,
+6af7c5aeaa733f982688cbf0,Teclado Mecanico,1200,,,,,,,,Redragon,Blue,RGB

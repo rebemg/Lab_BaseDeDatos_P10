@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "6af7c587aa733f982688cbea"
+  },
+  "nombre": "Laptop Lenovo",
+  "precio": 15000,
+  "caracteristicas": {
+    "procesador": "Intel i5",
+    "ram": "16GB",
+    "almacenamiento": "512GB SSD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af7c596aa733f982688cbec"
+  },
+  "nombre": "Mouse Logitech",
+  "precio": 500,
+  "caracteristicas": {
+    "tipo": "Inalambrico",
+    "color": "Negro"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af7c5a1aa733f982688cbee"
+  },
+  "nombre": "Monitor Samsung",
+  "precio": 3500,
+  "caracteristicas": {
+    "tamanio": "24 pulgadas",
+    "resolucion": "Full HD"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af7c5aeaa733f982688cbf0"
+  },
+  "nombre": "Teclado Mecanico",
+  "precio": 1200,
+  "marca": "Redragon",
+  "caracteristicas": {
+    "tipoSwitch": "Blue",
+    "iluminacion": "RGB"
+  }
+}]
